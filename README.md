@@ -14,3 +14,4 @@ Created HTML and CSS
     Revised CSS to match HTML
 
 Deployed URL: https://f4stfreddy.github.io/project-2/ GitHub Repo URL: https://github.com/f4stfreddy/project-2.git
+![](assets/images/Capture.JPG)
