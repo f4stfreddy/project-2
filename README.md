@@ -12,3 +12,5 @@ Created HTML and CSS
     Added UI Scrolls, Titled Images 
     Resize the page and view for multiple devices
     Revised CSS to match HTML
+
+Deployed URL: https://f4stfreddy.github.io/project-2/ GitHub Repo URL: https://github.com/f4stfreddy/project-2.git
